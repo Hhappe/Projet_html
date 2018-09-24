@@ -1,0 +1,268 @@
+<!DOCTYPE HTML>
+<!--
+	Broadcast by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Generic - Broadcast by TEMPLATED</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<h1><a href="#">Hugo et Alexandre</a></h1>
+				<a href="#menu">Menu</a>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="generic.html">Groupe1</a></li>
+					<li><a href="opeth.html">Opeth</a></li>
+				</ul>
+			</nav>
+
+		<!-- Main -->
+			<div id="main">
+
+			<!-- One -->
+				<section class="wrapper style1">
+					<div class="inner">
+						<header class="align-center">
+							<h2>Opeth</h2>
+						</header>
+						<div class="video">
+							<div class="video-wrapper">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/bSpqLqC7U6g" frameborder="0" allowfullscreen></iframe>
+							</div>
+							<p class="caption">
+								Windowpane, une chanson de l'album Damnation de 2003.
+							</p>
+						</div>
+						<p>Opeth est un groupe de metal progressif suédois, originaire de Stockholm. Fondé en 1990, le style d'Opeth, basé en grande partie sur la présence continue du chanteur et guitariste Mikael Åkerfeldt, est bien ancré dans la tradition heavy metal. Le groupe est également sous-classé dans le death metal et le rock progressif (ou une combinaison de ces genres) selon l'album et parfois la chanson à laquelle le critique se réfère. D'une part, Opeth emprunte aux styles les plus brutaux à travers des chants gutturaux et des séquences instrumentales très agressives tandis que de l'autre, il se distingue par des séquences progressives mélodiques, très souvent douces et envoûtantes. Cette apparente dichotomie est présente dans tous les albums du groupe bien qu'à des degrés différents, ce qui rend sa classification dans un style musical d'autant plus complexe.
+
+Au cours de sa longue carrière, Opeth fidélise et renforce sa base de fans, jusqu'à devenir un des groupes les plus connus du genre metal au cours des années 2000. L'album Damnation a su percer le classement Billboard 200 en entrant à la 192e position lors de son lancement en 20031. L'exploit est amélioré en septembre 2005 alors que Ghost Reveries passe deux semaines au classement aux positions 64 et 175 respectivement2.
+
+Au cours de sa carrière, Opeth recense douze albums studio, deux albums live, un coffret et trois DVD musicaux. Le premier album du groupe, Orchid, est présenté en 1995. Le dernier album en date d'Opeth, Sorceress, est sorti le 30 septembre 2016. </p>
+					</div>
+				</section>
+
+			<!-- Three -->
+				<section class="wrapper ">
+					<div class="inner">
+						<header class="align-center">
+							<h2>Les différents albums studios du groupe</h2>
+							<p>(Et il y en a vraiment BEAUCOUP...).</p>
+						</header>
+
+						<!-- 3 Column Video Section -->
+							<div class="flex flex-3">
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/orchid_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/morningrise_album.jpeg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Vivamus vulputate lacus non massa auctor lobortis
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/myarmsyourhearse_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Nam eu nisi non ante sodales interdum a vitae neque
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/stilllife_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/blackwaterpark_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/deliverance_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/damnation_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/ghostreveries_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/watershed_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/heritage_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/palecommunion_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/opeth/sorceress_album.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Cras eget lacus sed mauris scelerisque tincidunt
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+							</div>
+					</div>
+				</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<div class="flex flex-3">
+						<div class="col">
+							<h3>Vestibullum</h3>
+							<ul class="alt">
+								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+								<li><a href="#">Vis id faucibus montes tempor</a></li>
+								<li><a href="#">Massa amet lobortis vel.</a></li>
+								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+							</ul>
+						</div>
+						<div class="col">
+							<h3>Lobortis</h3>
+							<ul class="alt">
+								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+								<li><a href="#">Vis id faucibus montes tempor</a></li>
+								<li><a href="#">Massa amet lobortis vel.</a></li>
+								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+							</ul>
+						</div>
+						<div class="col">
+							<h3>Accumsan</h3>
+							<ul class="alt">
+								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+								<li><a href="#">Vis id faucibus montes tempor</a></li>
+								<li><a href="#">Massa amet lobortis vel.</a></li>
+								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="copyright">
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-snapchat"><span class="label">Snapchat</span></a></li>
+					</ul>
+					&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Coverr</a>. Video: <a href="https://coverr.co">Coverr</a>.
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
